@@ -1,4 +1,4 @@
-# AssessMyself
+# Analyzia
 Basic version of a simple project to track your habits.
 This application will have very simple features.
 # Feature No 1
